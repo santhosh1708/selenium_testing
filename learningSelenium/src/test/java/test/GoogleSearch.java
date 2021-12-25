@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 public class GoogleSearch {
 @Test
-	public static void main(String[] args) {
+	public void  testmethod(){
 		// TODO Auto-generated method stub
 System.out.println("asdasd");
 System.out.println("asdasddsfsd");
